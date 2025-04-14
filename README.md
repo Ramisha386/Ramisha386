@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/36709d54e38fd194750e652b5b94a96dce00565136de57122446eac83bcb8287/68747470733a2f2f7374617469632e70696e676361702e636f6d2f66696c65732f323032322f31322f30353037323730372f636861744750542d4769744875622d62616e6e65722e6a7067)](https://github.com/Ramisha386)
 <h1 align="center">Hi 👋, I'm Ramisha Fariha Baki</h1>
 <h3 align="center">An enthusiastic software developer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramisha386&label=Profile%20views&color=0e75b6&style=flat" alt="ramisha386" /> </p>
 
 - 🔭 I’m currently working on **Relationship between air quality and electricity consumption in Dhaka City**
