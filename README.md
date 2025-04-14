@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/36709d54e38fd194750e652b5b94a96dce00565136de57122446eac83bcb8287/68747470733a2f2f7374617469632e70696e676361702e636f6d2f66696c65732f323032322f31322f30353037323730372f636861744750542d4769744875622d62616e6e65722e6a7067)](https://github.com/Ramisha386)
+
 <h1 align="center">Hi 👋, I'm Ramisha Fariha Baki</h1>
 <h3 align="center">An enthusiastic software developer</h3>
 
