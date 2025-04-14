@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramisha386&label=Profile%20views&color=0e75b6&style=flat" alt="ramisha386" /> </p>
 
-- 🔭 I’m currently working on **Relationship between air quality and electricity consumption in Dhaka City**
+- 🔭 I’m currently working on **Human Robot Collaboration in Montana State University**
 
-- 🌱 I’m currently learning **C#, Unity**
+- 🌱 I’m currently learning **Unity, ROS, Unreal**
 
 - 💬 Ask me about **React, php, Js**
 
